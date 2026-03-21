@@ -8,6 +8,9 @@ This project focuses on predicting whether a tumor is **malignant** or **benign*
 
 ![WhatsApp Image 2026-03-20 at 11 50 11 AM](https://github.com/user-attachments/assets/0870151a-7947-45e5-a783-aca7a44aa8d3)
 
+![WhatsApp Image 2026-03-20 at 11 50 30 AM](https://github.com/user-attachments/assets/018dcf0f-0434-48b4-9c5b-aacc019c477c)
+
+![WhatsApp Image 2026-03-20 at 11 50 54 AM](https://github.com/user-attachments/assets/0844bcec-8b06-4c7a-a406-26bc5ff342de)
 
 ---
 
