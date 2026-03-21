@@ -6,6 +6,9 @@ Breast Cancer Prediction using Neural Networks with TensorFlow &amp; Keras for b
 ## 📖 Overview
 This project focuses on predicting whether a tumor is **malignant** or **benign** using a Neural Network model built with TensorFlow and Keras. The model is trained on a breast cancer dataset and demonstrates the application of deep learning in healthcare diagnostics.
 
+![WhatsApp Image 2026-03-20 at 11 50 11 AM](https://github.com/user-attachments/assets/0870151a-7947-45e5-a783-aca7a44aa8d3)
+
+
 ---
 
 ## 🎯 Objective
