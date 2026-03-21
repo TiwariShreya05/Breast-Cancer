@@ -109,5 +109,13 @@ B.Tech AI/ML Student
 - TensorFlow & Keras Documentation  
 - Scikit-learn Dataset  
 
-contact
+📬 Contact
+
+For queries, feedback, or collaboration opportunities:
+
+LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
+
+Email: shreyatiwari0801@gmail.com
+
+GitHub: https://github.com/TiwariShreya05
 
