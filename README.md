@@ -117,7 +117,7 @@ B.Tech AI/ML Student
 
 ---
 
-##📬 Contact
+📬 Contact
 
 For queries, feedback, or collaboration opportunities:
 
