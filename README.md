@@ -113,9 +113,11 @@ B.Tech AI/ML Student
 
 ## ⭐ Acknowledgements
 - TensorFlow & Keras Documentation  
-- Scikit-learn Dataset  
+- Scikit-learn Dataset
 
-📬 Contact
+---
+
+##📬 Contact
 
 For queries, feedback, or collaboration opportunities:
 
