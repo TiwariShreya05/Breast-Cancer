@@ -4,7 +4,6 @@
 
 This project focuses on predicting whether a tumor is malignant or benign using a Neural Network model built with TensorFlow and Keras. The model is trained on the Breast Cancer dataset and demonstrates the application of deep learning in healthcare diagnostics.
 
-⸻
 
 🖼️ Project Visualizations
 
@@ -23,8 +22,6 @@ This project focuses on predicting whether a tumor is malignant or benign using 
 </p>
 
 
-⸻
-
 🧪 Predictions & Output Screens
 
 <p align="center">
@@ -40,13 +37,10 @@ This project focuses on predicting whether a tumor is malignant or benign using 
 </p>
 
 
-⸻
-
 🎯 Objective
 
 To develop a machine learning model that can accurately classify tumors and assist in early detection of breast cancer.
 
-⸻
 
 📊 Dataset
 	•	Breast Cancer dataset (from Scikit-learn)
@@ -63,7 +57,6 @@ Target Labels:
 	•	0 → Malignant
 	•	1 → Benign
 
-⸻
 
 ⚙️ Tech Stack
 	•	Python
@@ -73,14 +66,12 @@ Target Labels:
 	•	Scikit-learn
 	•	Matplotlib
 
-⸻
 
 🧠 Model Architecture
 	•	Input Layer (30 features)
 	•	Hidden Dense Layer (ReLU activation)
 	•	Output Layer (Sigmoid activation for binary classification)
 
-⸻
 
 🔄 Workflow
 	1.	Data Loading
@@ -90,7 +81,6 @@ Target Labels:
 	5.	Model Evaluation
 	6.	Prediction on New Data
 
-⸻
 
 📈 Results
 
@@ -102,7 +92,6 @@ Target Labels:
 
 The model demonstrates strong performance in distinguishing between malignant and benign tumors.
 
-⸻
 
 📊 Evaluation Metrics
 	•	Accuracy
@@ -111,14 +100,12 @@ The model demonstrates strong performance in distinguishing between malignant an
 	•	Recall
 	•	F1-Score
 
-⸻
 
 ▶️ How to Run
 	1.	Open the notebook in Google Colab
 	2.	Run all cells step-by-step
 	3.	View training results and predictions
 
-⸻
 
 🔍 Sample Prediction
 
@@ -126,7 +113,6 @@ The model takes tumor feature inputs and predicts:
 	•	Malignant (Cancerous)
 	•	Benign (Non-Cancerous)
 
-⸻
 
 💡 Key Learnings
 	•	Neural Network implementation using TensorFlow/Keras
@@ -134,7 +120,6 @@ The model takes tumor feature inputs and predicts:
 	•	Evaluation using multiple performance metrics
 	•	Real-world healthcare AI application
 
-⸻
 
 🚀 Future Improvements
 	•	Hyperparameter tuning
@@ -142,20 +127,11 @@ The model takes tumor feature inputs and predicts:
 	•	Deployment as a web application
 	•	Real-time dataset integration
 
-⸻
-
-👩‍💻 Author
-
-Shreya Tiwari
-B.Tech AI/ML Student
-
-⸻
 
 ⭐ Acknowledgements
 	•	TensorFlow & Keras Documentation
 	•	Scikit-learn Dataset
 
-⸻
 
 📬 Contact
 	•	LinkedIn: https://www.linkedin.com/in/shreya-tiwari-520b692b3/
