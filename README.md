@@ -8,6 +8,7 @@ This project focuses on predicting whether a tumor is **malignant** or **benign*
 
 <img width="1193" height="718" alt="image" src="https://github.com/user-attachments/assets/d0aa1023-7c0e-4f1c-a950-1f9eff59e293" />
 
+<img width="1358" height="284" alt="image" src="https://github.com/user-attachments/assets/aa571ed8-693b-4e6b-8cff-30dfbb734004" />
 
 
 
