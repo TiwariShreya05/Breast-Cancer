@@ -10,7 +10,7 @@ This project focuses on predicting whether a tumor is **malignant** or **benign*
 
 <img width="1358" height="284" alt="image" src="https://github.com/user-attachments/assets/aa571ed8-693b-4e6b-8cff-30dfbb734004" />
 
-
+<img width="891" height="217" alt="image" src="https://github.com/user-attachments/assets/42795669-8fb8-4388-b07c-10072c08c6f4" />
 
 ![WhatsApp Image 2026-03-20 at 11 50 11 AM](https://github.com/user-attachments/assets/0870151a-7947-45e5-a783-aca7a44aa8d3)
 
