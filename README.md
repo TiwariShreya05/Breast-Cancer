@@ -43,52 +43,77 @@ To develop a machine learning model that can accurately classify tumors and assi
 
 
 📊 Dataset
-	•	Breast Cancer dataset (from Scikit-learn)
-	•	Features include:
-	•	Radius
-	•	Texture
-	•	Perimeter
-	•	Area
-	•	Smoothness
-	•	Concavity
-	•	Symmetry
+Breast Cancer dataset (from Scikit-learn)
+
+Features include:
+
+Radius
+
+Texture
+
+Perimeter
+
+Area
+
+Smoothness
+
+Concavity
+
+Symmetry
 
 Target Labels:
-	•	0 → Malignant
-	•	1 → Benign
 
+0 → Malignant
+
+1 → Benign
 
 ⚙️ Tech Stack
-	•	Python
-	•	TensorFlow
-	•	Keras
-	•	NumPy
-	•	Scikit-learn
-	•	Matplotlib
+
+Python
+
+TensorFlow
+
+Keras
+
+NumPy
+
+Scikit-learn
+
+Matplotlib
 
 
 🧠 Model Architecture
-	•	Input Layer (30 features)
-	•	Hidden Dense Layer (ReLU activation)
-	•	Output Layer (Sigmoid activation for binary classification)
+1.Input Layer (30 features)
 
+2.Hidden Dense Layer (ReLU activation)
+
+3.Output Layer (Sigmoid activation for binary classification)
 
 🔄 Workflow
-	1.	Data Loading
-	2.	Data Preprocessing (Normalization & Standardization)
-	3.	Model Building
-	4.	Model Training
-	5.	Model Evaluation
-	6.	Prediction on New Data
+1.Data Loading
+
+2.Data Preprocessing (Normalization & Standardization)
+
+3.Model Building
+
+4.Model Training
+
+5.Model Evaluation
+
+6.Prediction on New Data
 
 
 📈 Results
 
 ✅ Model Performance:
-	•	Accuracy: 97.4%
-	•	Precision: ~97%
-	•	Recall: ~97%
-	•	F1-Score: ~97%
+
+Accuracy: 97.4%
+
+Precision: ~97%
+
+Recall: ~97%
+
+F1-Score: ~97%
 
 The model demonstrates strong performance in distinguishing between malignant and benign tumors.
 
