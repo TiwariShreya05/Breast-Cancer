@@ -47,11 +47,17 @@ Target Labels:
 1 → Benign
 
 ⚙️ Tech Stack
+
 Python
+
 TensorFlow
+
 Keras
+
 NumPy
+
 Scikit-learn
+
 Matplotlib
 
 🧠 Model Architecture
