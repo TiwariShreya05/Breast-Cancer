@@ -15,13 +15,20 @@ The model is trained and evaluated on the Breast Cancer Wisconsin dataset from s
 
 ---
 🖼️ Project Visualizations
+
 📊 Training, Accuracy & Loss
 <p align="center"> <img src="https://github.com/user-attachments/assets/d0aa1023-7c0e-4f1c-a950-1f9eff59e293" width="80%"/> </p>
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/aa571ed8-693b-4e6b-8cff-30dfbb734004" width="80%"/> </p>
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/42795669-8fb8-4388-b07c-10072c08c6f4" width="80%"/> </p>
+
 🧪 Predictions & Output Screens
-<p align="center"> <img src="https://github.com/user-attachments/assets/0870151a-7947-45e5-a783-aca7a44aa8d3" width="70%"/> </p> 
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/0870151a-7947-45e5-a783-aca7a44aa8d3" width="70%"/> </p>
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/018dcf0f-0434-48b4-9c5b-aacc019c477c" width="70%"/> </p>
+
 <p align="center"> <img src="https://github.com/user-attachments/assets/0844bcec-8b06-4c7a-a406-26bc5ff342de" width="70%"/> </p>
 
 ---
