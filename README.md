@@ -11,7 +11,7 @@ This project builds a binary classification model using 30 tumor features to pre
 - **Malignant** (cancerous) → Label `0`  
 - **Benign** (non-cancerous) → Label `1`
         
-The model is trained and evaluated on the Breast Cancer Wisconsin dataset from scikit-learn.
+The model is trained and evaluated on the Breast Cancer Wisconsin dataset from scikit-learn.   
    
 ---
 🖼️ Project Visualizations
