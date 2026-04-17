@@ -1,6 +1,6 @@
 # 🩺 Breast Cancer Prediction
 
-A deep learning project that classifies tumors as malignant or benign using a Neural Network built with TensorFlow and Keras, trained on the scikit-learn Breast Cancer dataset.
+A deep learning project that classifies tumors as malignant or benign using a Neural Network built with TensorFlow and Keras, trained on the scikit-learn Breast Cancer dataset.   
 
 ---   
 
