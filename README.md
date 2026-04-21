@@ -14,7 +14,7 @@ This project builds a binary classification model using 30 tumor features to pre
 The model is trained and evaluated on the Breast Cancer Wisconsin dataset from scikit-learn.   
    
 ---
-🖼️ Project Visualizations   
+🖼️ Project Visualizations      
 
 📊 Training, Accuracy & Loss 
 <p align="center"> <img src="https://github.com/user-attachments/assets/d0aa1023-7c0e-4f1c-a950-1f9eff59e293" width="80%"/> </p>    
