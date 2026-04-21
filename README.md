@@ -8,7 +8,7 @@ A deep learning project that classifies tumors as malignant or benign using a Ne
            
 This project builds a binary classification model using 30 tumor features to predict whether a tumor is:   
   
-- **Malignant** (cancerous) → Label `0`  
+- **Malignant** (cancerous) → Label `0`            
 - **Benign** (non-cancerous) → Label `1`
         
 The model is trained and evaluated on the Breast Cancer Wisconsin dataset from scikit-learn.   
